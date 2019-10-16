@@ -1,7 +1,9 @@
 <img width=150px height=195px src="https://github.com/WebBreacher/yoga/blob/master/New_logo_files/logo%20Yoga_color/logo%20Yoga_color_low_res.png">
 
+This code base was developed and published during DEFCON26 by Micah "WebBreacher" Hoffman - https://webbreacher.com/2018/06/24/introducing-osint-yoga/. This is my contribution back to the community based on the excellent work already done by Micah. 
+
 # What is this?
-Your OSINT Graphical Analyzer (YOGA) is a project to help people understand different courses of action to take based upon the data they have. Have a username? Click on it and review the attached/connected nodes for possible actions.
+Your OSINT Graphical Analyzer for SOCs (SOC-YOGA) is a project to help people understand different courses of action to take based upon the data they have. In the context of a SOC, information can be regarded as highly troublesome at times as data cannot provide utility without the proper guidance or meaning. Without any direction, adequate analysis cannot be performed. SOC-YOGA aims to guide both the blue in their endeavors
 
 # Uses
 1. You can visit https://yoga.osint.ninja and use the web pages hosted via Github
